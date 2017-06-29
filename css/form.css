@@ -1,0 +1,127 @@
+/* estilo elementos form (inspiração bootstrap)
+http://getbootstrap.com/css/#forms-controls */
+/* botÃ£o estilo bootstrap */
+/* botao 'Me Interessa' */
+.me_interessa {
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1em;
+  border-radius: 4px;
+  border: none;
+}
+.me_interessa.active {
+  background-color: #2b72a3 !important;
+  color: #fff!important;
+}
+.me_interessa.disabled {
+  background-color: #eee!important;
+  color: #666!important;
+  border: 1px solid #ccc!important;
+}
+/* botao Adicionar */
+.adicionar {
+  font-weight: bold!important;
+  padding: 6px 12px;
+  font-size: 1em;
+  line-height: 14px;
+  border-radius: 4px;
+  border: none;
+  background-color: #2b72a3 !important;
+  color: #fff!important;
+}
+.form-group {
+  /* container label + input */
+  margin-bottom: 15px;
+}
+.form-group-horizontal {
+  /* inputs alinhados na horizontal */
+}
+.form-group-horizontal input[type=text],
+.form-group-horizontal input[type=password] {
+  display: inline-block;
+}
+.submit {
+  /* alinhar botão submit à direita */
+  text-align: right;
+}
+label {
+  display: inline-block;
+  padding-right: 5px;
+  margin-bottom: 8px;
+  font-size: .9em;
+  color: #2b72a3;
+  text-transform: uppercase;
+}
+input[type=text],
+input[type=password],
+select,
+textarea {
+  box-sizing: border-box;
+  display: block;
+  min-width: 60%;
+  padding: 6px 10px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+select {
+  display: inline-block;
+  min-width: 150px;
+}
+input[type=text]:disabled {
+  cursor: not-allowed;
+  background-color: #eeeeee;
+  opacity: 1;
+}
+input[type=text]::-moz-placeholder,
+input[type=password]::-moz-placeholder {
+  font-weight: 300;
+  color: #999;
+  opacity: 1;
+}
+input[type=text]:-ms-input-placeholder,
+input[type=password]:-ms-input-placeholder {
+  font-weight: 300;
+  color: #999;
+}
+input[type=text]::-webkit-input-placeholder,
+input[type=password]::-webkit-input-placeholder {
+  font-weight: 300;
+  color: #999;
+}
+/* para inputs alinhados na horizontal */
+input[type=text].horizontal,
+input[type=password].horizontal {
+  display: inline-block;
+  min-width: none;
+  min-width: 10%;
+}
+/* para inputs com largura um pouco maior */
+input[type=text].largeplus {
+  min-width: 80%;
+}
+/* botão submit padrão estilo bootstrap */
+input[type=submit] {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 12px 18px;
+  font-size: 1em;
+  line-height: 14px;
+  border-radius: 4px;
+  border: none;
+  /* padding vertical, padding horizontal, font-size, line-height e border-radius */
+  color: #ffffff;
+  background-color: #2b72a3;
+  border-color: #2b72a3;
+}

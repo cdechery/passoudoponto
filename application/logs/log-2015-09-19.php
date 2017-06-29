@@ -1,0 +1,32 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+DEBUG - 2015-09-19 10:52:25 --> Config Class Initialized
+DEBUG - 2015-09-19 10:52:25 --> Hooks Class Initialized
+DEBUG - 2015-09-19 10:52:26 --> Utf8 Class Initialized
+DEBUG - 2015-09-19 10:52:26 --> UTF-8 Support Enabled
+DEBUG - 2015-09-19 10:52:26 --> URI Class Initialized
+DEBUG - 2015-09-19 10:52:26 --> Router Class Initialized
+DEBUG - 2015-09-19 12:42:53 --> Config Class Initialized
+DEBUG - 2015-09-19 12:42:53 --> Hooks Class Initialized
+DEBUG - 2015-09-19 12:42:53 --> Utf8 Class Initialized
+DEBUG - 2015-09-19 12:42:53 --> UTF-8 Support Enabled
+DEBUG - 2015-09-19 12:42:53 --> URI Class Initialized
+DEBUG - 2015-09-19 12:42:53 --> Router Class Initialized
+DEBUG - 2015-09-19 16:05:12 --> Config Class Initialized
+DEBUG - 2015-09-19 16:05:12 --> Hooks Class Initialized
+DEBUG - 2015-09-19 16:05:12 --> Utf8 Class Initialized
+DEBUG - 2015-09-19 16:05:12 --> UTF-8 Support Enabled
+DEBUG - 2015-09-19 16:05:12 --> URI Class Initialized
+DEBUG - 2015-09-19 16:05:12 --> Router Class Initialized
+DEBUG - 2015-09-19 22:03:48 --> Config Class Initialized
+DEBUG - 2015-09-19 22:03:48 --> Hooks Class Initialized
+DEBUG - 2015-09-19 22:03:48 --> Utf8 Class Initialized
+DEBUG - 2015-09-19 22:03:48 --> UTF-8 Support Enabled
+DEBUG - 2015-09-19 22:03:49 --> URI Class Initialized
+DEBUG - 2015-09-19 22:03:49 --> Router Class Initialized
+DEBUG - 2015-09-19 22:57:01 --> Config Class Initialized
+DEBUG - 2015-09-19 22:57:01 --> Hooks Class Initialized
+DEBUG - 2015-09-19 22:57:01 --> Utf8 Class Initialized
+DEBUG - 2015-09-19 22:57:01 --> UTF-8 Support Enabled
+DEBUG - 2015-09-19 22:57:01 --> URI Class Initialized
+DEBUG - 2015-09-19 22:57:01 --> Router Class Initialized

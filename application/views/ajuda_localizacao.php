@@ -1,0 +1,5 @@
+<h3 style="margin-top:0;">Sua localização</h3>
+<p>Precisamos saber sua localização para poder te posicionar no mapa.</p>
+Não queremos saber seu endereço, apenas em que parte da cidade você está, dessa forma os demais usuários poderão saber a que distância um item disponível está deles.<br>
+<p>Digite o nome do seu bairro, o da sua rua, no campo indicado. Será criado um marcador no mapa. Se você achar que já está bom, pode deixar assim. Se desejar, pode arrastar este marcador para um local mais preciso, mais próximo da sua residência, especialmente se for um bairro muito grande e o marcador inicial ficar muito longe.</p>
+<p>Para alterar sua localização, já vai existir um marcador na localização que você usou no cadastro inicial. Simplesmente digite novamente um bairro ou nome de rua e depois dê um duplo-clique onde deseja configurar sua nova localização.</p>

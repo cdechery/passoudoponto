@@ -1,0 +1,28 @@
+/* botão estilo bootstrap */
+/* botao 'Me Interessa' */
+.me_interessa {
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1em;
+  border-radius: 4px;
+  border: none;
+}
+.me_interessa.active {
+  background-color: #2b72a3 !important;
+  color: #fff!important;
+}
+.me_interessa.disabled {
+  background-color: #eee!important;
+  color: #666!important;
+  border: 1px solid #ccc!important;
+}
+/* botao Adicionar */
+.adicionar {
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.2em;
+  border-radius: 4px;
+  border: none;
+  background-color: #d1eaef !important;
+  color: #fff;
+}
